@@ -22,6 +22,6 @@ i-Med: A medical portal for the general audience. This is a website. Computer Vi
 * Responsive UI
 
 ## Credits
-* Muslim Bayemirov
-* Assylbek Sakenov
+* [@serzhan-kenesbek](https://github.com/serzhan-kenesbek)
+* [@NotADoomer](https://github.com/NotADoomer)
 * Timur Muzhikbayev
